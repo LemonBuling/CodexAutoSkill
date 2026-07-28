@@ -1,0 +1,7 @@
+interface:
+  display_name: "TikTok Material Cleaner"
+  short_description: "Clean TikTok material batches with music and CTA."
+  default_prompt: "Use $tiktok-material-cleaner to clean a README-driven TikTok e-commerce material batch and export named deliverables."
+
+policy:
+  allow_implicit_invocation: true
